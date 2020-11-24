@@ -25,8 +25,8 @@ This cookbook contains (and will contain) the following material.
     - [ ] Creating a CSV file
     - [ ] Command Line Arguments
     - [ ] Dates and Times
-    - [ ] Working with Binary Data
 * Advanced
+    - [ ] Working with Binary Data
     - [ ] Making HTTP requests
     - [ ] Using TCP sockets
     - [ ] Making database connections
