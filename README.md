@@ -20,8 +20,8 @@ This cookbook contains (and will contain) the following material.
     - [x] Dunders
     - [x] Getters, Setters, and Deleters
 * Intermediate
-    - [ ] Reading and writing files
-    - [ ] Parsing JSON
+    - [x] Reading and writing files
+    - [x] Parsing JSON
     - [ ] Creating a CSV file
     - [ ] Command Line Arguments
     - [ ] Dates and Times
