@@ -13,12 +13,12 @@ This cookbook contains (and will contain) the following material.
     - [x] Data Structures (ex. Lists and Dictionaries)
     - [x] Lambda Expressions
 * Object Oriented Programming
-    - [ ] Creating Classes and Instances
-    - [ ] Class Variables
-    - [ ] Class and Static Methods
-    - [ ] Subclasses
-    - [ ] Dunders
-    - [ ] Getters, Setters, and Deleters
+    - [x] Creating Classes and Instances
+    - [x] Class Variables
+    - [x] Class and Static Methods
+    - [x] Subclasses
+    - [x] Dunders
+    - [x] Getters, Setters, and Deleters
 * Intermediate
     - [ ] Reading and writing files
     - [ ] Parsing JSON
