@@ -11,7 +11,7 @@ def greet_user_by_name(name="user", greeting="Hello"):
 
 def cube(base_number):
     """Multiplies a number with itself 3 times"""
-    cubed_value = base_number**3
+    cubed_value = base_number ** 3
     return cubed_value
 
 

@@ -1,2 +1,42 @@
-# Python-Cookbook
-My Python Cookbook
+# Python Cookbook
+My Python cookbook
+
+This cookbook contains (and will contain) the following material.
+
+## Contents ##
+* Basics
+    - [x] Printing and Getting user input
+    - [x] Basic Operators and Functions
+    - [x] Decision Statements
+    - [x] Loops
+    - [x] Functions
+    - [x] Data Structures (ex. Lists and Dictionaries)
+    - [x] Lambda Expressions
+* Object Oriented Programming
+    - [ ] Creating Classes and Instances
+    - [ ] Class Variables
+    - [ ] Class and Static Methods
+    - [ ] Subclasses
+    - [ ] Dunders
+    - [ ] Getters, Setters, and Deleters
+* Intermediate
+    - [ ] Reading and writing files
+    - [ ] Parsing JSON
+    - [ ] Creating a CSV file
+    - [ ] Command Line Arguments
+    - [ ] Dates and Times
+    - [ ] Working with Binary Data
+* Advanced
+    - [ ] Making HTTP requests
+    - [ ] Using TCP sockets
+    - [ ] Making database connections
+    - [ ] Multithreading
+    - [ ] Drawing 2D graphics to screen
+    - [ ] GUI programming
+    - [ ] Playing an audio file
+* NumPy
+    - [ ] Basic arithmetic on Arrays
+    - [ ] Basic Linear Algebra
+    - [ ] Advanced Linear Algebra
+    - [ ] Linear Equation Solver
+* Data Visualisation
